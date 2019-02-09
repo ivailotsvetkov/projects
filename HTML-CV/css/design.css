@@ -1,8 +1,36 @@
-#leftSideOfPage {
-  height: 100vh;
 
+.rightSideOfPage {
+  background-color: grey;
 }
-#rightSideOfPage {
-  height: 100vh;
-background-color: grey;
+.blackTitles{
+  background: black;
+  margin-top: 20px;
+}
+.whiteFontColor{
+  color:white;
+}
+.skillsTextMargin{
+  margin-top: 10px;
+}
+.boldText{
+font-weight: bold;
+}
+#italicText{
+  font-style: italic;
+}
+.date{
+  text-align: center;
+}
+.dateForExperience{
+  margin-top: 50px;
+}
+#pic{
+  max-width:100%;
+max-height:100%;
+}
+.marginForLeftPageTitles{
+  margin-left: 20px;
+}
+.progressbar{
+  width: 300px;
 }
