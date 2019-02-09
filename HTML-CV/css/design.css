@@ -1,36 +1,45 @@
-
 .rightSideOfPage {
   background-color: grey;
 }
-.blackTitles{
+
+.blackTitles {
   background: black;
   margin-top: 20px;
 }
-.whiteFontColor{
-  color:white;
+
+.whiteFontColor {
+  color: white;
 }
-.skillsTextMargin{
+
+.skillsTextMargin {
   margin-top: 10px;
 }
-.boldText{
-font-weight: bold;
+
+.boldText {
+  font-weight: bold;
 }
-#italicText{
+
+#italicText {
   font-style: italic;
 }
-.date{
+
+.date {
   text-align: center;
 }
-.dateForExperience{
+
+.dateForExperience {
   margin-top: 50px;
 }
-#pic{
-  max-width:100%;
-max-height:100%;
+
+#pic {
+  max-width: 100%;
+  max-height: 100%;
 }
-.marginForLeftPageTitles{
+
+.marginForLeftPageTitles {
   margin-left: 20px;
 }
-.progressbar{
+
+.progressbar {
   width: 300px;
 }
